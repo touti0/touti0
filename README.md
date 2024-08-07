@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I’m Mohsen Boughriou, a Data Scientist who enjoys exploring data to uncover valuable insights. I work with AI, Machine Learning, and NLP to create practical solutions for real-world problems. 🧠🔍<br><br>Take a look at my work, and feel free to reach out with any questions, suggestions, or collaboration ideas. Let’s turn data into meaningful insights and make a positive impact together. 💡🌍<br><br>Thanks for stopping by my profile! 😊</h2>
+<h2 align="left">👋 Welcome to My GitHub Hideout!<br><br>Hello! I’m Mohsen Boughriou, a Data Scientist who enjoys exploring data to uncover valuable insights. I work with AI, Machine Learning, and NLP to create practical solutions for real-world problems. 🧠🔍<br><br>Take a look at my work, and feel free to reach out with any questions, suggestions, or collaboration ideas. Let’s turn data into meaningful insights and make a positive impact together. 💡🌍<br><br>Thanks for stopping by my profile! 😊</h2>
 
 ###
 
@@ -52,11 +52,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/touti0/touti0/output/snake.svg" alt="Snake animation" />
 
 ###

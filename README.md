@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Hello! I’m Mohsen Boughriou, a Data Scientist who enjoys exploring data to uncover valuable insights. I work with AI, Machine Learning, and NLP to create practical solutions for real-world problems. 🧠🔍<br><br>Take a look at my work, and feel free to reach out with any questions, suggestions, or collaboration ideas. Let’s turn data into meaningful insights and make a positive impact together. 💡🌍<br><br>Thanks for stopping by my profile! 😊</h2>
+<h3 align="left">Hello! I’m Mohsen Boughriou, a Data Scientist who enjoys exploring data to uncover valuable insights. I work with AI, Machine Learning, and NLP to create practical solutions for real-world problems. 🧠🔍<br><br>Take a look at my work, and feel free to reach out with any questions, suggestions, or collaboration ideas. Let’s turn data into meaningful insights and make a positive impact together. 💡🌍<br><br>Thanks for stopping by my profile! 😊</h3>
 
 ###
 

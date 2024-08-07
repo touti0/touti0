@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Data Science Stack:</h2>
+<h2 align="left">Technologies Stack:</h2>
 
 ###
 
